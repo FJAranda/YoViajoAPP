@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">YoViajoAPP</string>
     <string name="imagen_de_inicio">Imagen de inicio</string>
+    <string name="conectar">Log In</string>
+    <string name="eslogan">YoViajoApp: Todos tus viajes en un mismo lugar.</string>
+    <string name="usuario">Usuario</string>
+    <string name="contrasena">Contraseña</string>
 </resources>

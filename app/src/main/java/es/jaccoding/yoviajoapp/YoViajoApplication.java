@@ -1,9 +1,10 @@
+package es.jaccoding.yoviajoapp;
+
 import android.app.Application;
 
 import es.jaccoding.yoviajoapp.model.repository.ViajesRepository;
 
 public class YoViajoApplication extends Application {
-
     //Añadir Repositorios necesarios para la tarea
     private ViajesRepository viajesRepository;
     @Override
